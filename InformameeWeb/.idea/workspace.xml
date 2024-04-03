@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Informamee" />
+      <artifact name="InformameeWeb:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f09ebac-3257-4e37-98ee-1d66d1ff4daa" name="Default Changelist" comment="small improvements and cleanup">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Informamee/Informamee.war" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Informamee/Informamee.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/InformameeWeb_war_exploded/WEB-INF/classes/com/pc/informamee/web/editor/controllers/LoginC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/InformameeWeb_war_exploded/WEB-INF/classes/com/pc/informamee/web/editor/controllers/LoginC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/InformameeWeb_war_exploded/WEB-INF/classes/com/pc/informamee/web/editor/filters/LoggedCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/InformameeWeb_war_exploded/WEB-INF/classes/com/pc/informamee/web/editor/filters/LoggedCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/InformameeWeb_war_exploded/editor/loginpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/InformameeWeb_war_exploded/editor/loginpage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/InformameeWeb_war_exploded/editor/loginpage.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InformameeWeb/com/pc/informamee/web/editor/controllers/LoginC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InformameeWeb/com/pc/informamee/web/editor/controllers/LoginC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InformameeWeb/com/pc/informamee/web/editor/filters/LoggedCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InformameeWeb/com/pc/informamee/web/editor/filters/LoggedCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Progettazione/Group31_progettazione - RIA 2.0.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../Progettazione/Group31_progettazione - RIA 2.0.pptx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="jsf" />
+        <option value="Interface" />
+        <option value="HTML4 File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Jsp File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="afterdeadlineSTABLE" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1ZUQoZDgUhUMSM1p8PrBobI7JSj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\franc\IntelliJIDEAProjects\TIW-progetto1-como-gruppo31\InformameeWeb\web\tablecommon" />
+      <recent name="C:\Users\franc\IntelliJIDEAProjects\TIW-progetto1-como-gruppo31\InformameeWeb\libs" />
+      <recent name="C:\Users\franc\IntelliJIDEAProjects\TIW-progetto1-como-gruppo31\InformameeWeb\web\mapcommon" />
+      <recent name="C:\Users\franc\IntelliJIDEAProjects\TIW-progetto1-como-gruppo31\InformameeWeb\web\editor" />
+      <recent name="C:\Users\franc\IntelliJIDEAProjects\TIW-progetto1-como-gruppo31\InformameeWeb\web" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\franc\IntelliJIDEAProjects\TIW-progetto1-como-gruppo31\InformameeWeb\web\WEB-INF\lib" />
+      <recent name="C:\Users\franc\IntelliJIDEAProjects\TIW-progetto1-como-gruppo31\InformameeWeb\web\editor\priv" />
+      <recent name="C:\Users\franc\IntelliJIDEAProjects\TIW-progetto1-como-gruppo31\InformameeWeb\libs" />
+      <recent name="C:\Users\franc\IntelliJIDEAProjects\TIW-progetto1-como-gruppo31\InformameeWeb\web" />
+      <recent name="C:\Users\franc\IntelliJIDEAProjects\InformameeWeb\web\editor\priv" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.31" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="InformameeWeb:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/InformameeWeb_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_InformameeWeb" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50245" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="InformameeWeb:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_InformameeWeb" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50245" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f09ebac-3257-4e37-98ee-1d66d1ff4daa" name="Default Changelist" comment="" />
+      <created>1584891367066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584891367066</updated>
+      <workItem from="1584891372425" duration="26535000" />
+      <workItem from="1584967459428" duration="990000" />
+      <workItem from="1584996977374" duration="14063000" />
+      <workItem from="1585075319738" duration="21000" />
+      <workItem from="1585087957256" duration="13956000" />
+      <workItem from="1585136041573" duration="375000" />
+      <workItem from="1585146536551" duration="604000" />
+      <workItem from="1585153362935" duration="109000" />
+      <workItem from="1585159989822" duration="18409000" />
+      <workItem from="1585242267582" duration="789000" />
+      <workItem from="1585266448691" duration="4456000" />
+      <workItem from="1585274531588" duration="741000" />
+      <workItem from="1585336029519" duration="7098000" />
+      <workItem from="1585360730043" duration="2631000" />
+      <workItem from="1585409119872" duration="26017000" />
+      <workItem from="1585445458802" duration="6445000" />
+      <workItem from="1585486327725" duration="33631000" />
+      <workItem from="1585568718916" duration="416000" />
+      <workItem from="1585589996505" duration="25000" />
+      <workItem from="1585606243481" duration="201000" />
+      <workItem from="1585606642055" duration="1753000" />
+      <workItem from="1586086068128" duration="18603000" />
+      <workItem from="1586169568686" duration="634000" />
+      <workItem from="1586188102457" duration="15443000" />
+      <workItem from="1586274827817" duration="25955000" />
+      <workItem from="1586367531612" duration="1639000" />
+      <workItem from="1586380501829" duration="2105000" />
+      <workItem from="1586382681680" duration="806000" />
+      <workItem from="1586383557747" duration="11200000" />
+      <workItem from="1586453700240" duration="28717000" />
+      <workItem from="1586524712763" duration="36128000" />
+      <workItem from="1586607736021" duration="37510000" />
+      <workItem from="1586696803549" duration="42523000" />
+      <workItem from="1586783163609" duration="471000" />
+      <workItem from="1586784147380" duration="21555000" />
+      <workItem from="1586805981738" duration="139000" />
+      <workItem from="1586806197195" duration="586000" />
+      <workItem from="1586806848583" duration="4508000" />
+      <workItem from="1586815384312" duration="4366000" />
+      <workItem from="1586822933345" duration="6974000" />
+      <workItem from="1586830654973" duration="657000" />
+      <workItem from="1586833783006" duration="222000" />
+      <workItem from="1586835769916" duration="2582000" />
+      <workItem from="1586838796229" duration="186000" />
+      <workItem from="1586839304379" duration="121000" />
+      <workItem from="1586839489244" duration="180000" />
+      <workItem from="1586839926369" duration="76000" />
+      <workItem from="1586874427418" duration="2796000" />
+      <workItem from="1586882256093" duration="670000" />
+      <workItem from="1586883177506" duration="3963000" />
+      <workItem from="1586888539233" duration="29000" />
+      <workItem from="1586888683017" duration="5450000" />
+      <workItem from="1586894787930" duration="64000" />
+      <workItem from="1586894887341" duration="199000" />
+      <workItem from="1586895194504" duration="3075000" />
+      <workItem from="1586900904512" duration="671000" />
+      <workItem from="1586901630613" duration="1619000" />
+      <workItem from="1586903651089" duration="2521000" />
+      <workItem from="1586906281803" duration="66000" />
+      <workItem from="1586907371115" duration="20000" />
+      <workItem from="1586946665984" duration="388000" />
+      <workItem from="1586959459403" duration="3624000" />
+      <workItem from="1586963733532" duration="24000" />
+      <workItem from="1586963817389" duration="35000" />
+      <workItem from="1586963923549" duration="15000" />
+      <workItem from="1586964272940" duration="1155000" />
+      <workItem from="1587858647653" duration="7577000" />
+      <workItem from="1587915268518" duration="1883000" />
+      <workItem from="1588176311456" duration="52000" />
+      <workItem from="1588519133897" duration="1822000" />
+      <workItem from="1588550903718" duration="148000" />
+      <workItem from="1589287797889" duration="560000" />
+      <workItem from="1589640234867" duration="84000" />
+      <workItem from="1589643738940" duration="76000" />
+      <workItem from="1589900257634" duration="1324000" />
+      <workItem from="1590051333916" duration="44000" />
+      <workItem from="1590772918360" duration="8035000" />
+      <workItem from="1590784953969" duration="7478000" />
+      <workItem from="1590842576411" duration="8535000" />
+      <workItem from="1590861003590" duration="5451000" />
+      <workItem from="1590866524931" duration="8256000" />
+      <workItem from="1590921129240" duration="11492000" />
+      <workItem from="1590951160932" duration="977000" />
+      <workItem from="1590964713904" duration="6105000" />
+      <workItem from="1591016125182" duration="14826000" />
+      <workItem from="1591087820138" duration="45192000" />
+      <workItem from="1591260793346" duration="3266000" />
+      <workItem from="1591265450353" duration="639000" />
+      <workItem from="1591268883575" duration="16268000" />
+      <workItem from="1591302707276" duration="13462000" />
+      <workItem from="1591350847688" duration="12959000" />
+      <workItem from="1591378752923" duration="672000" />
+      <workItem from="1591381889203" duration="3133000" />
+      <workItem from="1591386720992" duration="15157000" />
+      <workItem from="1591403702326" duration="1745000" />
+      <workItem from="1591406218038" duration="603000" />
+      <workItem from="1591407239961" duration="452000" />
+      <workItem from="1591436089067" duration="1283000" />
+      <workItem from="1591439430386" duration="401000" />
+      <workItem from="1591446662198" duration="2402000" />
+      <workItem from="1591483527456" duration="1220000" />
+      <workItem from="1591563640002" duration="1540000" />
+      <workItem from="1591565334631" duration="3122000" />
+    </task>
+    <task id="LOCAL-00117" summary="FIXES AND OPTIMISATIONS TO capcheckAJAX.js (node access by hierarchy and not by id anymore)">
+      <created>1591212804902</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1591212804902</updated>
+    </task>
+    <task id="LOCAL-00118" summary="recent searches WIP on fetchcurrent too">
+      <created>1591216804493</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1591216804493</updated>
+    </task>
+    <task id="LOCAL-00119" summary="recent searches work on fetchcurrent too">
+      <created>1591220933951</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1591220933952</updated>
+    </task>
+    <task id="LOCAL-00120" summary="recent searches work on fetchcurrent too">
+      <created>1591222287367</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1591222287367</updated>
+    </task>
+    <task id="LOCAL-00121" summary="far better way to handle cap input change!">
+      <created>1591224009521</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1591224009522</updated>
+    </task>
+    <task id="LOCAL-00122" summary="loginpage client almost done">
+      <created>1591226035758</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1591226035759</updated>
+    </task>
+    <task id="LOCAL-00123" summary="AJAX login is fully working!">
+      <created>1591228320702</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1591228320702</updated>
+    </task>
+    <task id="LOCAL-00124" summary="added new listeners for cap change to epicentrecap (according to other new ones)">
+      <created>1591228564314</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1591228564314</updated>
+    </task>
+    <task id="LOCAL-00125" summary="fixes to editor jsps">
+      <created>1591262085040</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1591262085041</updated>
+    </task>
+    <task id="LOCAL-00126" summary="fixes to editor jsps">
+      <created>1591263088658</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1591263088658</updated>
+    </task>
+    <task id="LOCAL-00127" summary="fixes to editor jsps">
+      <created>1591263149211</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1591263149211</updated>
+    </task>
+    <task id="LOCAL-00128" summary="fixes to editor jsps">
+      <created>1591264334368</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1591264334368</updated>
+    </task>
+    <task id="LOCAL-00129" summary="jsps cleaned">
+      <created>1591270002264</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1591270002267</updated>
+    </task>
+    <task id="LOCAL-00130" summary="jsps cleaned">
+      <created>1591270165554</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1591270165554</updated>
+    </task>
+    <task id="LOCAL-00131" summary="general refactor of submits">
+      <created>1591285953323</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1591285953323</updated>
+    </task>
+    <task id="LOCAL-00132" summary="replaced fetch with XMLHttpRequest where fetch was used">
+      <created>1591287289209</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1591287289209</updated>
+    </task>
+    <task id="LOCAL-00133" summary="added clickable elements highlight">
+      <created>1591288580938</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1591288580938</updated>
+    </task>
+    <task id="LOCAL-00134" summary="better Cap string builder (navigation using tree instead of getElementsById)">
+      <created>1591290307157</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1591290307157</updated>
+    </task>
+    <task id="LOCAL-00135" summary="fixes">
+      <created>1591291608924</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1591291608924</updated>
+    </task>
+    <task id="LOCAL-00136" summary="fixes">
+      <created>1591291852085</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1591291852085</updated>
+    </task>
+    <task id="LOCAL-00137" summary="fixes">
+      <created>1591294411744</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1591294411744</updated>
+    </task>
+    <task id="LOCAL-00138" summary="fixes">
+      <created>1591294528732</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1591294528732</updated>
+    </task>
+    <task id="LOCAL-00139" summary="fixes">
+      <created>1591295689089</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1591295689089</updated>
+    </task>
+    <task id="LOCAL-00140" summary="fixes">
+      <created>1591297147648</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1591297147648</updated>
+    </task>
+    <task id="LOCAL-00141" summary="optimisations">
+      <created>1591364476506</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1591364476507</updated>
+    </task>
+    <task id="LOCAL-00142" summary="sql names to lowercase">
+      <created>1591382979147</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1591382979148</updated>
+    </task>
+    <task id="LOCAL-00143" summary="sql names to lowercase">
+      <created>1591383456322</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1591383456322</updated>
+    </task>
+    <task id="LOCAL-00144" summary="delete controller (and dao) simplified thanks to integrity references in DB">
+      <created>1591383898435</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1591383898435</updated>
+    </task>
+    <task id="LOCAL-00145" summary="delete dao and controllers update">
+      <created>1591384898762</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1591384898765</updated>
+    </task>
+    <task id="LOCAL-00146" summary="added new DatePrinter used in ShowRes.jsp">
+      <created>1591388540072</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1591388540073</updated>
+    </task>
+    <task id="LOCAL-00147" summary="added new DatePrinter used in ShowRes.jsp">
+      <created>1591389434120</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1591389434120</updated>
+    </task>
+    <task id="LOCAL-00148" summary="various fixes">
+      <created>1591395362989</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1591395362989</updated>
+    </task>
+    <task id="LOCAL-00149" summary="fixes">
+      <created>1591399441730</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1591399441730</updated>
+    </task>
+    <task id="LOCAL-00150" summary="improvements and db dumps added">
+      <created>1591402747739</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1591402747739</updated>
+    </task>
+    <task id="LOCAL-00151" summary="folder rename">
+      <created>1591402954968</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1591402954968</updated>
+    </task>
+    <task id="LOCAL-00152" summary="new titles">
+      <created>1591404323234</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1591404323235</updated>
+    </task>
+    <task id="LOCAL-00153" summary="new titles">
+      <created>1591404336750</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1591404336750</updated>
+    </task>
+    <task id="LOCAL-00154" summary="name fixes and heroku db configured">
+      <created>1591405134772</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1591405134772</updated>
+    </task>
+    <task id="LOCAL-00155" summary="name fixes and heroku db configured">
+      <created>1591406702883</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1591406702885</updated>
+    </task>
+    <task id="LOCAL-00156" summary="fix">
+      <created>1591407296876</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1591407296877</updated>
+    </task>
+    <task id="LOCAL-00157" summary="fix">
+      <created>1591436370642</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1591436370642</updated>
+    </task>
+    <task id="LOCAL-00158" summary="fix">
+      <created>1591437083786</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1591437083786</updated>
+    </task>
+    <task id="LOCAL-00159" summary="fix">
+      <created>1591437210674</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1591437210674</updated>
+    </task>
+    <task id="LOCAL-00160" summary="fix">
+      <created>1591437297736</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1591437297736</updated>
+    </task>
+    <task id="LOCAL-00161" summary="fix">
+      <created>1591437419795</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1591437419795</updated>
+    </task>
+    <task id="LOCAL-00162" summary="added custom listener to characters (not numbers or : or backspace) keypress (timepicker library didn't have its own, allowing user to write anything in input)">
+      <created>1591448999666</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1591448999667</updated>
+    </task>
+    <task id="LOCAL-00163" summary="fixed locale problems on date/numbers, now prints them the right way according to user's locale">
+      <created>1591484586795</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1591484586796</updated>
+    </task>
+    <task id="LOCAL-00164" summary="small improvements and cleanup">
+      <created>1591564916885</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1591564916887</updated>
+    </task>
+    <task id="LOCAL-00165" summary="small improvements and cleanup">
+      <created>1591566152112</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1591566152112</updated>
+    </task>
+    <option name="localTasksCounter" value="166" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="far better way to handle cap input change!" />
+    <MESSAGE value="loginpage client almost done" />
+    <MESSAGE value="AJAX login is fully working!" />
+    <MESSAGE value="added new listeners for cap change to epicentrecap (according to other new ones)" />
+    <MESSAGE value="fixes to editor jsps" />
+    <MESSAGE value="jsps cleaned" />
+    <MESSAGE value="general refactor of submits" />
+    <MESSAGE value="replaced fetch with XMLHttpRequest where fetch was used" />
+    <MESSAGE value="added clickable elements highlight" />
+    <MESSAGE value="better Cap string builder (navigation using tree instead of getElementsById)" />
+    <MESSAGE value="optimisations" />
+    <MESSAGE value="sql names to lowercase" />
+    <MESSAGE value="delete controller (and dao) simplified thanks to integrity references in DB" />
+    <MESSAGE value="delete dao and controllers update" />
+    <MESSAGE value="added new DatePrinter used in ShowRes.jsp" />
+    <MESSAGE value="various fixes" />
+    <MESSAGE value="fixes" />
+    <MESSAGE value="improvements and db dumps added" />
+    <MESSAGE value="folder rename" />
+    <MESSAGE value="new titles" />
+    <MESSAGE value="name fixes and heroku db configured" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="added custom listener to characters (not numbers or : or backspace) keypress (timepicker library didn't have its own, allowing user to write anything in input)" />
+    <MESSAGE value="fixed locale problems on date/numbers, now prints them the right way according to user's locale" />
+    <MESSAGE value="small improvements and cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="small improvements and cleanup" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-2779" y="-553" key="#BuildArtifactsBeforeRunChooser" timestamp="1586384156034">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state x="-2779" y="-553" key="#BuildArtifactsBeforeRunChooser/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586384156034" />
+    <state x="-2967" y="-699" width="1054" height="676" key="#Project_Structure" timestamp="1591094801855">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state x="-2967" y="-699" width="1054" height="676" key="#Project_Structure/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591094801855" />
+    <state x="524" y="158" key="#Project_Structure/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1586839670981" />
+    <state x="-2967" y="-699" key="#Template_Data_Languages" timestamp="1586278466566">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state x="-2967" y="-699" key="#Template_Data_Languages/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586278466566" />
+    <state x="-3104" y="-703" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586830708467">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state x="-3104" y="-703" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586830708467" />
+    <state x="305" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1585091938640" />
+    <state x="-2801" y="-551" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586809300982">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state x="-2801" y="-551" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586809300982" />
+    <state x="-2754" y="-651" key="#com.intellij.ide.util.MemberChooser" timestamp="1591146496552">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state x="-2754" y="-651" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591146496552" />
+    <state x="652" y="246" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1586214360378" />
+    <state x="579" y="154" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1585091904126">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="579" y="154" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.834@0.0.1536.834" timestamp="1585091904126" />
+    <state x="593" y="347" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586381924738">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="593" y="347" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1586381924738" />
+    <state x="-2757" y="-469" width="437" height="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586274845150">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state x="-2757" y="-469" width="437" height="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586274845150" />
+    <state x="650" y="353" width="393" height="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1586207882812" />
+    <state x="500" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586887777968">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="-3007" y="-1066" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586631494095" />
+    <state x="500" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1586887777968" />
+    <state x="607" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586213809636">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="-2829" y="-611" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1585505205842" />
+    <state x="607" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1586213809636" />
+    <state x="0" y="32" key="CommitChangelistDialog2" timestamp="1591569914644">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="-3065" y="-762" key="CommitChangelistDialog2/0.0.1366.738/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586965434558" />
+    <state x="-3486" y="-762" key="CommitChangelistDialog2/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591407294333" />
+    <state x="23" y="32" key="CommitChangelistDialog2/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1591484585165" />
+    <state x="0" y="32" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1591569914644" />
+    <state width="390" height="466" key="DebuggerActiveHint" timestamp="1591094210970">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="390" height="466" key="DebuggerActiveHint/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591094210970" />
+    <state x="-2779" y="-621" key="FileChooserDialogImpl" timestamp="1586830936383">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state x="-2779" y="-621" key="FileChooserDialogImpl/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586830936383" />
+    <state x="796" y="329" key="FileChooserDialogImpl/0.0.1920.1042/0.0.1920.1042@0.0.1920.1042" timestamp="1585010287917" />
+    <state width="1024" height="156" key="GridCell.Tab.0.bottom" timestamp="1591565195218">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.0.bottom/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591405450577" />
+    <state width="1024" height="156" key="GridCell.Tab.0.bottom/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1591484750882" />
+    <state width="1024" height="156" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591565195218" />
+    <state width="1024" height="156" key="GridCell.Tab.0.center" timestamp="1591565195218">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.0.center/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591405450577" />
+    <state width="1024" height="156" key="GridCell.Tab.0.center/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1591484750881" />
+    <state width="1024" height="156" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1591565195218" />
+    <state width="1024" height="156" key="GridCell.Tab.0.left" timestamp="1591565195218">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.0.left/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591405450577" />
+    <state width="1024" height="156" key="GridCell.Tab.0.left/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1591484750881" />
+    <state width="1024" height="156" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1591565195218" />
+    <state width="1024" height="156" key="GridCell.Tab.0.right" timestamp="1591565195218">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.0.right/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591405450577" />
+    <state width="1024" height="156" key="GridCell.Tab.0.right/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1591484750882" />
+    <state width="1024" height="156" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1591565195218" />
+    <state width="1024" height="156" key="GridCell.Tab.1.bottom" timestamp="1591565195218">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.1.bottom/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591405450578" />
+    <state width="1024" height="156" key="GridCell.Tab.1.bottom/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1591484750882" />
+    <state width="1024" height="156" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591565195218" />
+    <state width="1024" height="156" key="GridCell.Tab.1.center" timestamp="1591565195218">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.1.center/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591405450578" />
+    <state width="1024" height="156" key="GridCell.Tab.1.center/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1591484750882" />
+    <state width="1024" height="156" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1591565195218" />
+    <state width="1024" height="156" key="GridCell.Tab.1.left" timestamp="1591565195218">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.1.left/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591405450578" />
+    <state width="1024" height="156" key="GridCell.Tab.1.left/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1591484750882" />
+    <state width="1024" height="156" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1591565195218" />
+    <state width="1024" height="156" key="GridCell.Tab.1.right" timestamp="1591565195218">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.1.right/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591405450578" />
+    <state width="1024" height="156" key="GridCell.Tab.1.right/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1591484750882" />
+    <state width="1024" height="156" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1591565195218" />
+    <state width="1024" height="156" key="GridCell.Tab.2.bottom" timestamp="1591565195218">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.2.bottom/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591405450578" />
+    <state width="1024" height="156" key="GridCell.Tab.2.bottom/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1591484750883" />
+    <state width="1024" height="156" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591565195218" />
+    <state width="1024" height="156" key="GridCell.Tab.2.center" timestamp="1591565195218">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.2.center/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591405450577" />
+    <state width="1024" height="156" key="GridCell.Tab.2.center/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1591484750883" />
+    <state width="1024" height="156" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1591565195218" />
+    <state width="1024" height="156" key="GridCell.Tab.2.left" timestamp="1591565195218">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.2.left/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591405450577" />
+    <state width="1024" height="156" key="GridCell.Tab.2.left/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1591484750882" />
+    <state width="1024" height="156" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1591565195218" />
+    <state width="1024" height="156" key="GridCell.Tab.2.right" timestamp="1591565195218">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.2.right/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591405450577" />
+    <state width="1024" height="156" key="GridCell.Tab.2.right/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1591484750883" />
+    <state width="1024" height="156" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1591565195218" />
+    <state width="1741" height="302" key="GridCell.Tab.3.bottom" timestamp="1591393185911">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.3.bottom/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591393185911" />
+    <state width="1024" height="61" key="GridCell.Tab.3.bottom/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1585364281873" />
+    <state width="1024" height="404" key="GridCell.Tab.3.bottom/0.0.1536.834@0.0.1536.834" timestamp="1585091955792" />
+    <state width="1741" height="302" key="GridCell.Tab.3.center" timestamp="1591393185911">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.3.center/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591393185911" />
+    <state width="1024" height="61" key="GridCell.Tab.3.center/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1585364281873" />
+    <state width="1024" height="404" key="GridCell.Tab.3.center/0.0.1536.834@0.0.1536.834" timestamp="1585091955792" />
+    <state width="1741" height="302" key="GridCell.Tab.3.left" timestamp="1591393185911">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.3.left/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591393185911" />
+    <state width="1024" height="61" key="GridCell.Tab.3.left/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1585364281872" />
+    <state width="1024" height="404" key="GridCell.Tab.3.left/0.0.1536.834@0.0.1536.834" timestamp="1585091955792" />
+    <state width="1741" height="302" key="GridCell.Tab.3.right" timestamp="1591393185911">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="302" key="GridCell.Tab.3.right/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591393185911" />
+    <state width="1024" height="61" key="GridCell.Tab.3.right/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1585364281873" />
+    <state width="1024" height="404" key="GridCell.Tab.3.right/0.0.1536.834@0.0.1536.834" timestamp="1585091955792" />
+    <state width="1741" height="415" key="GridCell.Tab.4.bottom" timestamp="1586304026667">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="415" key="GridCell.Tab.4.bottom/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586304026667" />
+    <state width="1024" height="61" key="GridCell.Tab.4.bottom/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1585364281874" />
+    <state width="1741" height="415" key="GridCell.Tab.4.center" timestamp="1586304026667">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="415" key="GridCell.Tab.4.center/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586304026667" />
+    <state width="1024" height="61" key="GridCell.Tab.4.center/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1585364281874" />
+    <state width="1741" height="415" key="GridCell.Tab.4.left" timestamp="1586304026667">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="415" key="GridCell.Tab.4.left/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586304026667" />
+    <state width="1024" height="61" key="GridCell.Tab.4.left/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1585364281874" />
+    <state width="1741" height="415" key="GridCell.Tab.4.right" timestamp="1586304026667">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="415" key="GridCell.Tab.4.right/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586304026667" />
+    <state width="1024" height="61" key="GridCell.Tab.4.right/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1585364281874" />
+    <state width="1741" height="415" key="GridCell.Tab.5.bottom" timestamp="1586304026667">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="415" key="GridCell.Tab.5.bottom/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586304026667" />
+    <state width="1024" height="61" key="GridCell.Tab.5.bottom/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1585364281873" />
+    <state width="1741" height="415" key="GridCell.Tab.5.center" timestamp="1586304026667">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="415" key="GridCell.Tab.5.center/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586304026667" />
+    <state width="1024" height="61" key="GridCell.Tab.5.center/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1585364281873" />
+    <state width="1741" height="415" key="GridCell.Tab.5.left" timestamp="1586304026667">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="415" key="GridCell.Tab.5.left/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586304026667" />
+    <state width="1024" height="61" key="GridCell.Tab.5.left/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1585364281873" />
+    <state width="1741" height="415" key="GridCell.Tab.5.right" timestamp="1586304026667">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="415" key="GridCell.Tab.5.right/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586304026667" />
+    <state width="1024" height="61" key="GridCell.Tab.5.right/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1585364281873" />
+    <state width="1741" height="415" key="GridCell.Tab.6.bottom" timestamp="1586304026649">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="415" key="GridCell.Tab.6.bottom/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586304026649" />
+    <state width="1741" height="415" key="GridCell.Tab.6.center" timestamp="1586304026649">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="415" key="GridCell.Tab.6.center/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586304026649" />
+    <state width="1741" height="415" key="GridCell.Tab.6.left" timestamp="1586304026649">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="415" key="GridCell.Tab.6.left/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586304026649" />
+    <state width="1741" height="415" key="GridCell.Tab.6.right" timestamp="1586304026649">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="415" key="GridCell.Tab.6.right/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586304026649" />
+    <state width="1741" height="357" key="GridCell.Tab.7.bottom" timestamp="1585526079054">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="357" key="GridCell.Tab.7.bottom/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1585526079054" />
+    <state width="1741" height="357" key="GridCell.Tab.7.center" timestamp="1585526079054">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="357" key="GridCell.Tab.7.center/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1585526079054" />
+    <state width="1741" height="357" key="GridCell.Tab.7.left" timestamp="1585526079054">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="357" key="GridCell.Tab.7.left/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1585526079054" />
+    <state width="1741" height="357" key="GridCell.Tab.7.right" timestamp="1585526079054">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="357" key="GridCell.Tab.7.right/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1585526079054" />
+    <state width="1741" height="357" key="GridCell.Tab.8.bottom" timestamp="1585526053921">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="357" key="GridCell.Tab.8.bottom/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1585526053921" />
+    <state width="1741" height="357" key="GridCell.Tab.8.center" timestamp="1585526053921">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="357" key="GridCell.Tab.8.center/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1585526053921" />
+    <state width="1741" height="357" key="GridCell.Tab.8.left" timestamp="1585526053921">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="357" key="GridCell.Tab.8.left/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1585526053921" />
+    <state width="1741" height="357" key="GridCell.Tab.8.right" timestamp="1585526053921">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state width="1741" height="357" key="GridCell.Tab.8.right/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1585526053921" />
+    <state x="-2846" y="-643" width="1105" height="564" key="MultipleFileMergeDialog" timestamp="1587911983556">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state x="-2846" y="-643" width="1105" height="564" key="MultipleFileMergeDialog/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1587911983556" />
+    <state x="-3079" y="-783" key="SettingsEditor" timestamp="1588175864713">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state x="-3079" y="-783" key="SettingsEditor/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1588175864713" />
+    <state x="324" y="0" key="SettingsEditor/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1586839618268" />
+    <state x="524" y="261" key="Vcs.Push.Dialog.v2" timestamp="1591566153950">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="-2967" y="-625" key="Vcs.Push.Dialog.v2/0.0.1366.738/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586965352715" />
+    <state x="-2967" y="-625" key="Vcs.Push.Dialog.v2/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591407299493" />
+    <state x="524" y="261" key="Vcs.Push.Dialog.v2/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1591484588529" />
+    <state x="524" y="261" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1591566153950" />
+    <state x="-2851" y="-533" key="com.intellij.ide.util.TipDialog" timestamp="1586830661197">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state x="-2851" y="-533" key="com.intellij.ide.util.TipDialog/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586830661197" />
+    <state x="593" y="315" key="com.intellij.ide.util.TipDialog/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1586815433096" />
+    <state x="-2989" y="-713" key="com.intellij.javaee.view.ServerArtifactsDialog" timestamp="1585001736153">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state x="-2989" y="-713" key="com.intellij.javaee.view.ServerArtifactsDialog/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1585001736153" />
+    <state x="-2748" y="-442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587907567574">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state x="-2748" y="-442" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1587907567574" />
+    <state x="746" y="155" width="713" height="546" key="find.popup" timestamp="1591566072584">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="-2865" y="-659" width="715" height="546" key="find.popup/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591405099947" />
+    <state x="545" y="175" width="713" height="546" key="find.popup/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1591384671030" />
+    <state x="746" y="155" width="713" height="546" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1591566072584" />
+    <state x="-2891" y="-645" key="git4idea.branch.GitSmartOperationDialog" timestamp="1587911512530">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state x="-2891" y="-645" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1587911512530" />
+    <state x="-3492" y="-1046" key="new project wizard" timestamp="1590051380354">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state x="-3492" y="-1046" key="new project wizard/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1590051380354" />
+    <state x="209" y="12" key="new project wizard/0.0.1536.834/-3840.-1066.2560.1409@0.0.1536.834" timestamp="1586381381445" />
+    <state x="-2850" y="-735" key="refactoring.ChangeSignatureDialog" timestamp="1584903130849">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state x="-2850" y="-735" key="refactoring.ChangeSignatureDialog/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1584903130849" />
+    <state x="-2903" y="-199" key="run.anything.popup" timestamp="1586716965871">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state x="-2903" y="-199" key="run.anything.popup/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1586716965871" />
+    <state x="-2897" y="-748" width="672" height="678" key="search.everywhere.popup" timestamp="1591289589870">
+      <screen x="-3840" y="-1066" width="2560" height="1409" />
+    </state>
+    <state x="-2897" y="-748" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/-3840.-1066.2560.1409@-3840.-1066.2560.1409" timestamp="1591289589870" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/viewer/web/AdvancesSearchRes.jsp</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/editor/src/com/pc/informamee/editor/controllers/NewEvent.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/pc/informamee/web/controllers/GeoTagCapListC.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/pc/informamee/web/dao/SearchTimeD.java</url>
+          <line>146</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/pc/informamee/web/editor/controllers/EditC.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/pc/informamee/web/dao/SearchTimeInstantD.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/pc/informamee/web/editor/controllers/NewEventC.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/pc/informamee/web/editor/controllers/NewEventC.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ricerca avanzata</title>
+</head>
+<body>
+    <form action="SearchEv">
+        <label for="day" id="datalbl">Inserisci data: </label>
+        <input type="date" id="day" name="date"/><br>
+        <label for="hour" id="timelbl">Inserisci ora: </label>
+        <input type="time"  id="hour" name="time"/><br>
+        <label for="cap">CAP: </label>
+        <input type="text" id="cap" name="cap"/><br>
+
+        <input type="checkbox" id="isweather" name="isW" value="true"/>
+        <label for="isweather" id="weatherlbl">Meterologico</label>
+
+        <br>
+        <input type="checkbox" id="isterrorist" name="isT" value="true"/>
+        <label for="isterrorist" id="terroristlbl">Terroristico</label>
+        <br>
+        <input type="checkbox" id="isseismic" name="isS" value="true"/>
+        <label for="isseismic" id="seismiclbl">Sismico</label>
+        <br>
+        <label for="danger" id="dangerlbl">Livello di pericolo: </label>
+        <select required name="danger" id="danger">
+            <option value="-1">Qualsiasi</option>
+            <option value="0">1 - verde</option>
+            <option value="1">2 - giallo</option>
+            <option value="2">3 - arancione</option>
+            <option value="3">4 - rosso</option>
+        </select><br>
+        <input type="submit" id="searchbtn" value="Cerca"/>
+    </form>
+
+    </form>
+</body>
+</html>

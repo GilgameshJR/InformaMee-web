@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+
+
+    <welcome-file-list>
+        <welcome-file>/index.html</welcome-file>
+    </welcome-file-list>
+
+    <servlet>
+        <servlet-name>CapCheckController</servlet-name>
+        <servlet-class>com.pc.informamee.web.controllers.CapCheckC</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CapCheckController</servlet-name>
+        <url-pattern>/capcheck</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ReverseGeoTagBoundsController</servlet-name>
+        <servlet-class>com.pc.informamee.web.controllers.ReverseGeoTagBounds</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ReverseGeoTagBoundsController</servlet-name>
+        <url-pattern>/reversebounds</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ReverseGeoTagPointController</servlet-name>
+        <servlet-class>com.pc.informamee.web.controllers.ReverseGeoTagPoint</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ReverseGeoTagPointController</servlet-name>
+        <url-pattern>/reversepoint</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>GeoTagPointController</servlet-name>
+        <servlet-class>com.pc.informamee.web.controllers.GeoTagCapListC</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>GeoTagPointController</servlet-name>
+        <url-pattern>/geolocate</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ErrorController</servlet-name>
+        <servlet-class>com.pc.informamee.web.controllers.ErrorController</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ErrorController</servlet-name>
+        <url-pattern>/error</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>ViewerIndexController</servlet-name>
+        <servlet-class>com.pc.informamee.web.viewer.controllers.Index</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ViewerIndexController</servlet-name>
+        <url-pattern>/viewer/index</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ViewerSetCookieAndRedirectController</servlet-name>
+        <servlet-class>com.pc.informamee.web.viewer.controllers.SetCookieAndRedirect</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ViewerSetCookieAndRedirectController</servlet-name>
+        <url-pattern>/viewer/SetCookieAndRedirect</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ViewerFetchCurrentController</servlet-name>
+        <servlet-class>com.pc.informamee.web.viewer.controllers.FetchCurrent</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ViewerFetchCurrentController</servlet-name>
+        <url-pattern>/viewer/FetchCurrent</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ViewerFetchAdvancedController</servlet-name>
+        <servlet-class>com.pc.informamee.web.viewer.controllers.FetchAdvanced</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ViewerFetchAdvancedController</servlet-name>
+        <url-pattern>/viewer/FetchAdvanced</url-pattern>
+    </servlet-mapping>
+
+    <filter>
+        <filter-name>ViewerSetCapInSessionFilter</filter-name>
+        <filter-class>com.pc.informamee.web.viewer.filters.SetCapInSession</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>ViewerSetCapInSessionFilter</filter-name>
+        <url-pattern>/viewer/*</url-pattern>
+    </filter-mapping>
+
+    <filter>
+        <filter-name>ViewerFetchCurrentFilter</filter-name>
+        <filter-class>com.pc.informamee.web.viewer.filters.FetchCurrent</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>ViewerFetchCurrentFilter</filter-name>
+        <url-pattern>/viewer/AdvancedSearch.jsp</url-pattern>
+        <url-pattern>/viewer/FetchAdvanced</url-pattern>
+        <url-pattern>/viewer/SearchCurrent.jsp</url-pattern>
+        <url-pattern>/viewer/FetchCurrent</url-pattern>
+    </filter-mapping>
+
+
+
+
+
+
+
+
+
+    <servlet>
+        <servlet-name>EditorLoginController</servlet-name>
+        <servlet-class>com.pc.informamee.web.editor.controllers.LoginC</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>EditorLoginController</servlet-name>
+        <url-pattern>/editor/login</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>EditorLogoutController</servlet-name>
+        <servlet-class>com.pc.informamee.web.editor.controllers.LogoutC</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>EditorLogoutController</servlet-name>
+        <url-pattern>/editor/priv/logout</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>EditorNewEventController</servlet-name>
+        <servlet-class>com.pc.informamee.web.editor.controllers.NewEventC</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>EditorNewEventController</servlet-name>
+        <url-pattern>/editor/priv/newevent</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>IndexController</servlet-name>
+        <servlet-class>com.pc.informamee.web.editor.controllers.IndexC</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>IndexController</servlet-name>
+        <url-pattern>/editor/priv/index</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>GetEditorController</servlet-name>
+        <servlet-class>com.pc.informamee.web.editor.controllers.GetEditorC</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>GetEditorController</servlet-name>
+        <url-pattern>/editor/priv/getEditor</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>EditorEditController</servlet-name>
+        <servlet-class>com.pc.informamee.web.editor.controllers.EditC</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>EditorEditController</servlet-name>
+        <url-pattern>/editor/priv/edit</url-pattern>
+    </servlet-mapping>
+    
+    <servlet>
+        <servlet-name>EditorDeleteController</servlet-name>
+        <servlet-class>com.pc.informamee.web.editor.controllers.DeleteC</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>EditorDeleteController</servlet-name>
+        <url-pattern>/editor/priv/delete</url-pattern>
+    </servlet-mapping>
+
+    <filter>
+        <filter-name>EditorLoggedCheckFilter</filter-name>
+        <filter-class>com.pc.informamee.web.editor.filters.LoggedCheck</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>EditorLoggedCheckFilter</filter-name>
+        <url-pattern>/editor/priv/*</url-pattern>
+    </filter-mapping>
+
+    <filter>
+        <filter-name>EditorEditLicensedCheckFilter</filter-name>
+        <filter-class>com.pc.informamee.web.editor.filters.EditLicensedCheck</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>EditorEditLicensedCheckFilter</filter-name>
+        <url-pattern>/editor/priv/getEditor</url-pattern>
+        <url-pattern>/editor/priv/edit</url-pattern>
+        <url-pattern>/editor/priv/delete</url-pattern>
+    </filter-mapping>
+
+</web-app>

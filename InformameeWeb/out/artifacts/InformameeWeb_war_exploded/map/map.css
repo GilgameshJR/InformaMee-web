@@ -1,0 +1,27 @@
+/*
+canvas#canvas {
+    position: absolute;
+    right: 0px;
+
+    width: 50em;
+    height: 50em;
+}
+/*
+div#map {
+    display: none;
+    position: absolute;
+    top: 100px;
+    right: 5px;
+
+    width: 500px;
+    height: 500px;
+}*/
+
+#map {
+    display: none;
+    position: absolute;
+    right: 0px;
+
+    width: 30em;
+    height: 35em;
+}

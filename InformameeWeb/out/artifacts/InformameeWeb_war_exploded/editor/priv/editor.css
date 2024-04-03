@@ -1,0 +1,23 @@
+.ui-slider-horizontal {
+    height: .8em;
+    width: 14.5em !important;
+}
+
+.greysubtitle {
+    color: gray;
+}
+
+.redalert {
+    color: red;
+}
+/*
+div#mycontent {
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+}*/
+
+div#mycontent {
+    padding: 20px;
+}

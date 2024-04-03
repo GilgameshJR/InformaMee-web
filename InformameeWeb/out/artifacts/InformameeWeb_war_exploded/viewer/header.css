@@ -1,0 +1,12 @@
+.redalert {
+    color: red;
+}
+
+.redalert#alertsheader {
+    color: red;
+    font-size: x-large;
+}
+
+.noalert {
+    color: green;
+}

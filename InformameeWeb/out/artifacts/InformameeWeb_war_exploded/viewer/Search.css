@@ -1,0 +1,15 @@
+.redalert {
+    color: red;
+}
+
+.greysubtitle {
+    color: gray;
+}
+
+div#mycontent {
+    padding: 20px;
+}
+
+a.recentsearch:hover {
+    background-color: greenyellow;
+}

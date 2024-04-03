@@ -1,0 +1,1 @@
+heroku war:deploy Informamee.war --app informamee

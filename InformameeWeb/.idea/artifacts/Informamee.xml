@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Informamee">
+    <output-path>$PROJECT_DIR$/out/artifacts/Informamee</output-path>
+    <root id="archive" name="Informamee.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="InformameeWeb" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/libs/jstl-1.2.jar" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="InformameeWeb/web/Web" />
+    </root>
+  </artifact>
+</component>
